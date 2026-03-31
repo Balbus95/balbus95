@@ -6,6 +6,7 @@
 - 🤔 I'm looking for help with: Deep system internals, Advanced performance engineering, and Large-scale data processing.
 - 💬 Ask me about: Debugging weird issues, Optimizing slow systems, and Building tools that actually save time.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariobalbi95) or [Email](mailto:mariobalbi95@gmail.com).
+- 🤖 My public profile & AI context layer: [Daemon](https://balbus95.github.io/Daemon)
 - ⚡ Fun fact: If something is slow or broken, my first instinct is to take it apart and make it faster — hardware or software.
 
 ---
