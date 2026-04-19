@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I'm currently working on: Automation tools that remove friction from daily workflows, System-level experiments focused on squeezing out performance, and AI/Data side projects when they provide real utility.
+- 🔭 I'm currently working on: Secure backend systems and ML-based threat detection, automation tools that remove friction, and AI/agentic projects when they solve real problems.
 - 🌱 I'm currently learning: System and infrastructure deep dives, Performance tuning at scale, and Practical AI integration.
 - 👯 I'm looking to collaborate on: Open source utilities for developers and power users, Low-level or performance-critical projects, and Smart automation tools.
 - 🤔 I'm looking for help with: Deep system internals, Advanced performance engineering, and Large-scale data processing.
-- 💬 Ask me about: Debugging weird issues, Optimizing slow systems, and Building tools that actually save time.
+- 💬 Ask me about: Application security, ML detection pipelines, debugging weird issues, and building tools that actually save time.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariobalbi95) or [Email](mailto:mariobalbi95@gmail.com).
 - 🤖 My public profile & AI context layer: [Daemon](https://balbus95.github.io/Daemon)
 - ⚡ Fun fact: If something is slow or broken, my first instinct is to take it apart and make it faster — hardware or software.
