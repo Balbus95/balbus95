@@ -95,10 +95,6 @@
 
 ---
 
-
-
----
-
 ## ☕ Support
 
 If my work was useful, a coffee is always welcome!
