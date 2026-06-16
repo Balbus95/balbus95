@@ -7,6 +7,7 @@
 - 💬 Ask me about: Application security, ML detection pipelines, debugging weird issues, and building tools that actually save time.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariobalbi95) or [Email](mailto:mariobalbi95@gmail.com).
 - 🤖 My public profile & AI context layer: [Daemon](https://balbus95.github.io/Daemon)
+- 🌐 Portfolio: [balbus.is-a.dev](https://balbus.is-a.dev)
 - ⚡ Fun fact: If something is slow or broken, my first instinct is to take it apart and make it faster — hardware or software.
 
 ---
