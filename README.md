@@ -5,9 +5,8 @@
 - 👯 I'm looking to collaborate on: Open source utilities for developers and power users, Low-level or performance-critical projects, and Smart automation tools.
 - 🤔 I'm looking for help with: Deep system internals, Advanced performance engineering, and Large-scale data processing.
 - 💬 Ask me about: Application security, ML detection pipelines, debugging weird issues, and building tools that actually save time.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariobalbi95) or [Email](mailto:mariobalbi95@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mariobalbi95), [Email](mailto:mariobalbi95@gmail.com) or [Portfolio](https://balbus.is-a.dev).
 - 🤖 My public profile & AI context layer: [Daemon](https://balbus95.github.io/Daemon)
-- 🌐 Portfolio: [balbus.is-a.dev](https://balbus.is-a.dev)
 - ⚡ Fun fact: If something is slow or broken, my first instinct is to take it apart and make it faster — hardware or software.
 
 ---
